@@ -10,3 +10,5 @@ https://chillicream.com/docs/hotchocolate/v13
 
 - GraphQL em Postman:
 https://learning.postman.com/docs/sending-requests/graphql/graphql-overview/
+
+Meu vídeo demonstrando na prática: https://youtu.be/rInVNlf2KuI
